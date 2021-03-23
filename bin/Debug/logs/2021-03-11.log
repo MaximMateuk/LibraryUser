@@ -1,0 +1,30 @@
+2021-03-11 23:31:09.0395 ERROR System.InvalidOperationException: ѕоследовательность не содержит соответствующий элемент
+   в System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   в LibraryUser.Controllers.UserService.ReserveBook(User user, String bookname) в C:\Users\Vitalik\source\repos\PsychoQWERTY\NauKPZ\LibraryUser\LibraryUser\Controllers\UserService.cs:строка 40
+2021-03-11 23:34:50.9341 ERROR System.InvalidOperationException: ѕоследовательность не содержит соответствующий элемент
+   в System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   в LibraryUser.Controllers.UserService.ReserveBook(User user, String bookname) в C:\Users\Vitalik\source\repos\PsychoQWERTY\NauKPZ\LibraryUser\LibraryUser\Controllers\UserService.cs:строка 40
+2021-03-11 23:35:26.2380 ERROR System.InvalidOperationException: ѕоследовательность не содержит соответствующий элемент
+   в System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   в LibraryUser.Controllers.UserService.ReserveBook(User user, String bookname) в C:\Users\Vitalik\source\repos\PsychoQWERTY\NauKPZ\LibraryUser\LibraryUser\Controllers\UserService.cs:строка 40
+2021-03-11 23:45:42.6352 ERROR System.InvalidOperationException: ѕоследовательность не содержит соответствующий элемент
+   в System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   в LibraryUser.Controllers.UserService.ReserveBook(User user, String bookname) в C:\Users\Vitalik\source\repos\PsychoQWERTY\NauKPZ\LibraryUser\LibraryUser\Controllers\UserService.cs:строка 40
+2021-03-11 23:47:19.2220 ERROR System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   at LibraryUser.Controllers.UserService.ReserveBook(User user, String bookname) in C:\Users\Vitalik\source\repos\PsychoQWERTY\NauKPZ\LibraryUser\LibraryUser\Controllers\UserService.cs:line 40
+2021-03-11 23:47:31.7760 ERROR System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   at LibraryUser.Controllers.UserService.ReserveBook(User user, String bookname) in C:\Users\Vitalik\source\repos\PsychoQWERTY\NauKPZ\LibraryUser\LibraryUser\Controllers\UserService.cs:line 40
+2021-03-11 23:47:49.8321 ERROR System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   at LibraryUser.Controllers.UserService.ReserveBook(User user, String bookname) in C:\Users\Vitalik\source\repos\PsychoQWERTY\NauKPZ\LibraryUser\LibraryUser\Controllers\UserService.cs:line 40
+2021-03-11 23:49:14.6350 ERROR System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   at LibraryUser.Controllers.UserService.ReserveBook(User user, String bookname) in C:\Users\Vitalik\source\repos\PsychoQWERTY\NauKPZ\LibraryUser\LibraryUser\Controllers\UserService.cs:line 40
+2021-03-11 23:49:25.9474 ERROR System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   at LibraryUser.Controllers.UserService.ReserveBook(User user, String bookname) in C:\Users\Vitalik\source\repos\PsychoQWERTY\NauKPZ\LibraryUser\LibraryUser\Controllers\UserService.cs:line 40
+2021-03-11 23:59:24.3401 ERROR System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   at LibraryUser.Controllers.UserService.ReserveBook(User user, String bookname) in C:\Users\Vitalik\source\repos\PsychoQWERTY\NauKPZ\LibraryUser\LibraryUser\Controllers\UserService.cs:line 40
